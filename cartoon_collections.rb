@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(calls)
   final = calls.map do |word|
-    word.capitalize <<!
+    word.capitalize<<!
   end
   final
 end
